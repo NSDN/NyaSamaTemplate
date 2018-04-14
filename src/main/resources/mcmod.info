@@ -1,0 +1,16 @@
+[
+{
+  "modid": "NyaSamaTemplate",
+  "name": "NyaSama Template",
+  "description": "NyaSama template mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://dev.nyasama.com/nsmc",
+  "updateUrl": "",
+  "authorList": ["NSDN"],
+  "credits": "Copyright (C) NSDN 2014 - 2018",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
